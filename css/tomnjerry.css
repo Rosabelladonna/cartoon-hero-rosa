@@ -14,6 +14,9 @@ header{
 h1, h2{ 
 font-family: 'Indie Flower', cursive; }
 
+/*header styles */
+/* write your comment here with slash and an asterix */
+
 header h1{
 	color: #FAE853;
 	font-size: 45px;
@@ -36,7 +39,7 @@ h2{
 	font-size: 35px;
 	color: #641E16;
 	margin: 40px 0 10px;
-	
+
 }
 
 a{
